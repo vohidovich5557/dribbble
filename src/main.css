@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+ul,ol{
+    list-style: none;
+}
